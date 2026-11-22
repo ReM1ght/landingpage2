@@ -2,7 +2,7 @@
 
 A static product landing page with a watch-focused layout and responsive styling.
 
-**Live demo:** https://rem1ght.github.io/watch-store-landing-page/
+**Live demo:** https://rem1ght.github.io/landingpage2/
 
 ## Technologies
 
